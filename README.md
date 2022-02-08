@@ -3,6 +3,7 @@ This datapack brings hypixel bridge to your world! All you need to do is drop it
 Make sure to download the current version. The Download button will download V1.1 for 1.18.x.. To get other versions go to the external link.
 
 Link to full guide with pictures: Guide
+
 Link to our Discord for support and more addons: Discord
 Setup:
 
