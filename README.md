@@ -1,3 +1,5 @@
+**Cureently being set up on github!!**
+
 This datapack brings hypixel bridge to your world! All you need to do is drop it into your data pack folder in a world with a bridge map and run /reload.
 
 Make sure to download the current version. The Download button will download V1.1 for 1.18.x.. To get other versions go to the external link.
